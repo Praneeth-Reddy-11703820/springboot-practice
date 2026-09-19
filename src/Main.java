@@ -30,5 +30,9 @@ public class Main extends Test {
         int encapvalue = encapTest.getValue();
         System.out.println("encapsulation value " + encapvalue);*/
 
+       /*  //Abstraction example
+        Test withDraw=new Test();
+        withDraw.withdraw(100);*/
+
     }
 }
