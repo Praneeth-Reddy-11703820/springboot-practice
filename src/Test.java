@@ -1,17 +1,19 @@
-public class Test  {
+public class Test {
 
     public int number(int a) {
         a = a + a;
         return a;
     }
 
-/*// Abstraction
+/*
+// Abstraction
     //need to extend the ATM class to work this
     @Override
     public void withdraw(int draw) {
          draw=10;
          System.out.println("withdran amount " + draw);
-    }*/
+    }
+*/
 
    /* //Encapsulation
     private int value;
