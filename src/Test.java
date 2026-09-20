@@ -3,6 +3,12 @@ public class Test {
     public int number(int a) {
         a = a + a;
         return a;
+    };
+    int c;
+    public int number(int a , int b)
+    {
+         c=a+b;
+        return c;
     }
 
 /*

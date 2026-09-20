@@ -22,6 +22,12 @@ public class Main extends Test {
         System.out.println("number " + number1);
 */
 
+/*
+        // Method Overloading
+        Test loading = new Test();
+        int c = loading.number(1, 2);
+        System.out.println("number " + c);
+        */
 
        /* //Encapsulation
         Test encapTest = new Test();
